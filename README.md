@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @klaudiolamaj
+- 👀 I’m interested in Wordpress,Python,C,C++,HTML,React
+- 🌱 I’m currently learning Python and React
+- 💞️ I’m looking to collaborate on the future
